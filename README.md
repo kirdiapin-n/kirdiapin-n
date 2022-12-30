@@ -36,7 +36,7 @@
 
 *JavaScript, CoffeeScript, BackBone, LESS*
 
-#### Middle Frontend Developer, Sberbank. Moscow, Russia
+#### Software Developer, Sberbank. Moscow, Russia
 ###### Internal startup of Sberbank, business direction. September 2020 - march 2022
 
 - Created web app (prototype YouTube) for premium segment of bank with using React/Effector
@@ -48,7 +48,7 @@
 
 *TypeScript, React, Effector, NodeJS, Webpack, Jenkins, Husky, Jira, Confluence*
 
-#### Middle Frontend Developer, Premium IT Solution. Moscow, Russia
+#### Software Developer, Premium IT Solution. Moscow, Russia
 ###### Working as a contractor in Sberbank. May 2020 - September 2020
 
 - Created new web app for internal use by employees
@@ -57,7 +57,7 @@
 
 *JavaScript, React, Redux, NodeJS, Webpack, Jenkins, Husky, Jira, Confluence*
 
-#### Junior Frontend Developer, LIC-EXPERT. Moscow, Russia
+#### Software Developer, LIC-EXPERT. Moscow, Russia
 ###### Tax risk assessment startup based in Moscow. September 2019 - May 2020
 
 - Created SPA for detailed product presentation with using Vue Library
