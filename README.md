@@ -21,9 +21,19 @@
 
 ### :briefcase: Experience
 
+#### Frontend Developer, 23 Software. remote
+###### Software development for businesses and startups. April 2023 - Present
+
+- Development of CMS (forms with different difficulty)
+- Development custom plugins for google-maps
+- Participation in code review
+- Adding edits to the design for a better UX
+
+*React/Zustant, react-hook-form, mui, Typescript*
+
 
 #### Frontend Developer, Alar Studios. Budva, Montenegro
-###### Software development for startups. Non-standard solutions. May 2022 - Present
+###### Software development for startups. Non-standard solutions. May 2022 - April 2023
 
 - Development of CMS (forms with different difficulty)
 - Development custom plugins for markdown-component
