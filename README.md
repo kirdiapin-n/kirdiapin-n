@@ -1,70 +1,83 @@
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/ipestilenz/">
+    <a href="https://www.linkedin.com/in/nikita-kirdiapin/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://t.me/ipestilenz">
       <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
-  
+
   <img src="https://komarev.com/ghpvc/?username=kirdiapin-n&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
-  
+
 ### :man_technologist: About me
 
-*I'm frontend developer with 5+ years of experience. I have hands-on experience efficiently coding web app. I mostly work with frontend. I've taken part in the developing process of small startups as well as large high-load projects.*
+*Frontend/Fullstack developer with over 5 years of commercial experience building scalable web applications — from internal CRM systems to high-load client platforms. Proficient in JavaScript, TypeScript, React, Vue, and Node.js, with a strong focus on clean architecture, performance optimization, accessibility (a11y), and test coverage. Experienced in setting up CI/CD pipelines, working with GraphQL, PostgreSQL, and contributing to custom UI component libraries. I prioritize code quality, readability, and effective collaboration within development teams.*
 
 ---
 
 ### :briefcase: Experience
 
+#### Frontend Developer, 23 Software. Remote
+###### Software development for businesses and startups. April 2023 - Present
+
+Built and maintained multiple CRM systems in a monorepo architecture:
+System #1:
+- React + GraphQL + Apollo frontend, Node.js + PostgreSQL backend.
+- Designed and maintained DB migrations, implemented webhooks and custom APIs.
+- Enforced strong code standards via custom ESLint rules, achieved 90%+ test coverage using Jest.
+  System #2:
+- Migrated legacy PHP+JS apps to Nuxt.js + TypeScript.
+- Handled 5 apps and a shared core for reusable components/utilities.
+- Introduced Vitest with 90%+ test coverage, Docker, TailwindCSS, ag-grid, and FormKit.
+- Reduced build time by 50%, improved mobile responsiveness and cross-platform compatibility.
+- Set up CI/CD pipelines with Bitbucket, configured GraphQL Codegen for both projects.Built and maintained multiple CRM systems in a monorepo architecture: System #1: • React + GraphQL + Apollo frontend, Node.js + PostgreSQL backend. • Designed and maintained DB migrations, implemented webhooks and custom APIs. • Enforced strong code standards via custom ESLint rules, achieved 90%+ test coverage using Jest. System #2: • Migrated legacy PHP+JS apps to Nuxt.js + TypeScript. • Handled 5 apps and a shared core for reusable components/utilities. • Introduced Vitest with 90%+ test coverage, Docker, TailwindCSS, ag-grid, and FormKit. • Reduced build time by 50%, improved mobile responsiveness and cross-platform compatibility. • Set up CI/CD pipelines with Bitbucket, configured GraphQL Codegen for both projects.
+
+
+*React/Zustant, react-hook-form, mui, Typescript, graphQL*
+*Vue/Nuxt, FormKit, TailWindCss, pinia, hasura, auth0*
+
 
 #### Frontend Developer, Alar Studios. Budva, Montenegro
-###### Software development for startups. Non-standard solutions. May 2022 - Present
+###### Software development for startups. Non-standard solutions. May 2022 - April 2023
 
-- Development of CMS (forms with different difficulty)
-- Development custom plugins for markdown-component
-- Participation in code review
-- Support for an existing project, adding new functionality
-- Adding and using WCAG for screen-readers in app (a11y)
-- Development UI for scale (200%) pages
-- Adding edits to the design for a better UX
+- Developed a digital wellness platform using Backbone.js + Vue (frontend) and Python (backend).
+- Created personalized wellness programs and ensured full WCAG-compliant accessibility (a11y), including support for screen readers and high zoom levels (200%+).
+- Built and maintained a CMS (React, Apollo, Node.js) for managing platform content.
+- Integrated Amazon S3 for file storage and processing; created custom plugins for rich text editors.
+- Used MUI for UI components and implemented complex data relationships.
 
 *React/Atom(jotai), Apollo/GraphQL, Typescript, CoffeeScript, BackBone, LESS*
 
 #### Frontend Developer, Sberbank. Moscow, Russia
 ###### The largest digital platform. Technobrand that combines the best world practices and the most modern stack. September 2020 - March 2022
 
-- Development of a web app (prototype YouTube)
-- Participation in the development of a messaging web app for internal use
-- Participation in the development of architecture
-- Participation in code review
-- Participation in the development of the UI library
-- Participation in setting up automatic project deployment
+- Maintained and extended a loan application system for bank employees (React frontend, minor Java backend contributions).
+- Designed and built a new Next.js + TypeScript SSR application for premium clients, featuring video upload/viewing, comments, chats, and posts.
+- Application served 1,000+ users, with excellent performance and stability.
+- Contributed to the internal UI component library used across multiple teams.
 
 *TypeScript, React, Effector, NodeJS, Webpack, Jenkins, Husky, Jira, Confluence*
 
 #### Frontend Developer, Premium IT Solution. Moscow, Russia
 ###### Development and implementation of software. May 2020 - September 2020
 
-- Development of new web app for internal use by employees
-- Participated in discussion about improvement UX
-- Participation in the development of the UI library
-- Support for the old project
-- Participation in code review
+- Developed an internal chat application for employees using React and Effector.
+- Wrote unit tests with Jest for new features.
+- Maintained and extended a loan processing platform for bank staff.
 
 *JavaScript, React, Redux, NodeJS, Webpack, Jenkins, Husky, Jira, Confluence*
 
 #### Frontend Developer, LIC-EXPERT. Moscow, Russia
 ###### Software development, web services development, work with bigdata. June 2019 - May 2020
 
-- Development SPA for detailed product presentation
-- Development and support of the main site for searching information on companies
-- Rewriting old inner project
-- Speeding up the site through the use of new technologies
+- Contributed to the development of an internal application for collecting and analyzing data on counterparties (JS frontend + PHP backend).
+- Helped design and implement REST API; integrated Chart.js for dynamic data visualizations.
+- Fully rewrote the company’s landing page from HTML+JS to Vue, reducing the page size by 5x and improving load time by 60%.
+- Improved accessibility (a11y), adding support for screen readers and keyboard navigation.
 
 *JavaScript, PHP, Laravel, Vue, Vuex, Webpack, Jenkins*
 
