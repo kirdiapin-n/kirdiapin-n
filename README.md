@@ -1,91 +1,74 @@
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/ipestilenz/">
+    <a href="https://www.linkedin.com/in/nikita-kirdiapin/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://t.me/ipestilenz">
       <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
-  
+
   <img src="https://komarev.com/ghpvc/?username=kirdiapin-n&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
-  
+
 ### :man_technologist: About me
 
-*I'm frontend developer with 5+ years of experience. I have hands-on experience efficiently coding web app. I mostly work with frontend. I've taken part in the developing process of small startups as well as large high-load projects.*
+*Senior Frontend Developer with 6 years of experience in JavaScript, TypeScript, React.js, Next.js, Redux, MobX, Effector, MUI, and Styled Components. Skilled in backend development with Node.js, Express.js, Nest.js, PostgreSQL, REST, GraphQL (Apollo), and Docker. Delivered 4 full-cycle projects from scratch to production, supporting the entire SDLC cycle. Implemented FSD architecture with module federation, accelerating feature delivery by 25%. Cut build time by 30% and boosted scalability across 5+ apps. Experience building real-time features like chat and video streaming with React, Effector, and WebSockets. Domain expertise in gaming, fintech, and healthcare across US/EU teams of 7–15 engineers. 2 years as a Team Lead and mentor for teams of 3–5 frontend engineers.*
 
 ---
 
 ### :briefcase: Experience
 
+#### Frontend Developer, 23 Software. USA, Remote 
+###### Software development firm helping startups efficiently launch scalable, production-ready MVPs.
+###### May 2023 - Present
+
+- Migrated a US-based app from React to Next.js, improving load time by 40% and SEO by 60%.
+Refactored 200+ components, implemented SSR/SSG, and routing optimization, improving load time by 40%.
+- Enhanced CI/CD workflows on Bitbucket Pipelines, cutting deployment time by ~10 minutes per build.
+- Enforced strict type safety and consistent code standards with TypeScript and ESLint, increasing team velocity by 4x.
+- Achieved 90% test coverage using Vitest and React Testing Library, enabling reliable refactoring and faster releases.
+- Reduced bundle size by 50% by replacing heavy libraries with lightweight GraphQL-focused tools and optimizing Apollo Client caching.
+
+*React/Zustant, react-hook-form, mui, Typescript, graphQL*
+*Vue/Nuxt, FormKit, TailWindCss, pinia, hasura, auth0*
+
 
 #### Frontend Developer, Alar Studios. Budva, Montenegro
-###### Software development for startups. Non-standard solutions. May 2022 - Present
+###### Alar Studios specializes in custom web and mobile solutions for 20+ clients in gaming, fintech, and healthcare.
+###### April 2022 - April 2023
 
-- Development of CMS (forms with different difficulty)
-- Development custom plugins for markdown-component
-- Participation in code review
-- Support for an existing project, adding new functionality
-- Adding and using WCAG for screen-readers in app (a11y)
-- Development UI for scale (200%) pages
-- Adding edits to the design for a better UX
+- Built wellness platforms with full WCAG-compliant accessibility, including screen reader support, keyboard navigation, and 200 % zoom, ensuring inclusive user experiences.
+- Cut runtime issues by 40% by introducing schema-based validation of GraphQL API data using io-ts, improving fault tolerance for third-party integrations.
+- Reduced total bundle size by ~1.5x by creating custom Webpack plugins to streamline the build process.
+- Led and mentored team of 3 engineers through sprint planning and code reviews, driving high-quality feature delivery.
+- Improved First Contentful Paint (FCP) performance by 40% and Lighthouse score from 42 to 91 by using Next.js-based SSR, memoization, component-level code splitting, and virtualization.
 
 *React/Atom(jotai), Apollo/GraphQL, Typescript, CoffeeScript, BackBone, LESS*
 
 #### Frontend Developer, Sberbank. Moscow, Russia
-###### The largest digital platform. Technobrand that combines the best world practices and the most modern stack. September 2020 - March 2022
+###### Russia’s leading bank with over 110M users, 14,000+ branches, and $45B+ in annual revenue.
+###### June 2020 - March 2022
 
-- Development of a web app (prototype YouTube)
-- Participation in the development of a messaging web app for internal use
-- Participation in the development of architecture
-- Participation in code review
-- Participation in the development of the UI library
-- Participation in setting up automatic project deployment
+• Developed a UI Kit library with TypeScript, Material UI, and StoryBook, reducing UI-related tech debt by 60% and accelerating feature delivery by 40% across 3 teams.
+• Revamped the development cycle, raising PR quality to 90% and reducing implementation time by 2x.
+Implemented strict typing, increasing readability and reducing errors during the development phase by 30%.
+• Achieved 85% unit test coverage using Jest/React Testing Library, applying Test-Driven Development (TDD) in a product-focused application.
 
 *TypeScript, React, Effector, NodeJS, Webpack, Jenkins, Husky, Jira, Confluence*
 
-#### Frontend Developer, Premium IT Solution. Moscow, Russia
-###### Development and implementation of software. May 2020 - September 2020
-
-- Development of new web app for internal use by employees
-- Participated in discussion about improvement UX
-- Participation in the development of the UI library
-- Support for the old project
-- Participation in code review
-
-*JavaScript, React, Redux, NodeJS, Webpack, Jenkins, Husky, Jira, Confluence*
-
 #### Frontend Developer, LIC-EXPERT. Moscow, Russia
-###### Software development, web services development, work with bigdata. June 2019 - May 2020
+###### Supports up to 600,000 queries/year per license with digital signature verification and real estate registry access.
+###### November 2019 - May 2020
 
-- Development SPA for detailed product presentation
-- Development and support of the main site for searching information on companies
-- Rewriting old inner project
-- Speeding up the site through the use of new technologies
+- Identified redundant API calls and reworked the REST API, speeding up information retrieval by 50%.
+- Created Chart.js-based visualizations for live KPIs, cutting down report preparation time by 50%.
+- Refactored the company’s landing page from HTML+JS to Vue, reducing the page size by 5x and boosting loading performance by 60%.
+- Reduced manual email handling by 70% by building an automated notification system in PHP with SMTP support.
 
 *JavaScript, PHP, Laravel, Vue, Vuex, Webpack, Jenkins*
-
-#### Frontend Developer, freelance. Moscow, Russia
-###### Development and training. September 2018 - May 2019
-
-- WordPress's application development
-- Joomla's application development
-- Advanced training in programming languages
-- Fulfillment of freelance orders
-
-*WordPress, Joomla, JavaScript, HTML, CSS*
-
-#### Frontend Developer, Regentinox. Moscow, Russia
-###### Marketplace. August 2017 - November 2018
-
-- Support of old and development of new functionality for a web application
-- Development of a data administration system
-- Automation of the process of accounting for the number of goods left in the warehouse
-
-*WordPress, Joomla, JavaScript, HTML, CSS*
 
 ---
 
