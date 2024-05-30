@@ -21,7 +21,7 @@
 
 ### :briefcase: Experience
 
-#### Frontend Developer, 23 Software. remote
+#### Frontend Developer, 23 Software. Remote
 ###### Software development for businesses and startups. April 2023 - Present
 
 - Development of CMS (forms with different difficulty)
@@ -29,7 +29,8 @@
 - Participation in code review
 - Adding edits to the design for a better UX
 
-*React/Zustant, react-hook-form, mui, Typescript*
+*React/Zustant, react-hook-form, mui, Typescript, graphQL*
+*Vue/Nuxt, formKit, TailWindCss, pinia, hasura, auth0*
 
 
 #### Frontend Developer, Alar Studios. Budva, Montenegro
